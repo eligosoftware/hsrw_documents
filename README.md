@@ -1,6 +1,6 @@
 # NVIDIA Jetson - Workshop HSRW
 
-[I'm a relative reference to a repository file](../ansible)
+[I'm a relative reference to a repository file](ansible)
 
 ### Set NVIDIA Container Runtime for Docker
 
